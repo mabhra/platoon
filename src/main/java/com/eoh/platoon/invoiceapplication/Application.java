@@ -3,8 +3,6 @@ package com.eoh.platoon.invoiceapplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.system.ApplicationPidFileWriter;
-import org.springframework.retry.annotation.EnableRetry;
-import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 public class Application {
